@@ -1,10 +1,10 @@
 {
-  "name": "wiki_Max_Front",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "name": "wiki_max",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "react-bootstrap": "^0.32.1",
-    "react-router-dom": "^4.2.2"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
   }
 }
